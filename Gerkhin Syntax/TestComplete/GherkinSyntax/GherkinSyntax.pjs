@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{208C8686-302A-4ECB-B6B9-49F10314D634}">
+	<children>
+		<child name="GherkinSyntax" key="{80DB2D8D-0603-4E72-8BE2-686F83D94C8B}" path="GherkinSyntax\GherkinSyntax.mds" />
+	</children>
+	<testItems key="{7B688ED7-E4AB-4696-B30E-084390D39AF5}">
+		<children>
+			<testItem key="{80DB2D8D-0603-4E72-8BE2-686F83D94C8B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{CB74EE5E-0EFF-454C-9D46-DA36C6DA48EA}" />
+	<analysis key="{C2C0DD84-09A8-4FB0-9A83-A6FEA9B3C246}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
